@@ -1,8 +1,7 @@
 one = input('wieght')
 two = input()
-if two == ("kg"){
+if two == (kg)
+ print("your wieght is" + str(one) +"kg")
 
-    print("your wieght is" + str(one) +"kg")
-}
 else:
     print("your wieght is" + str(one) +"lb")
