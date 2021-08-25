@@ -1,7 +1,7 @@
-one = input('wieght')
+one = input('hieght')
 two = input()
 if two == ("kg"):
- print("your wieght is" + str(one) +"kg")
+ print("your hieght is" + str(one) +"kg")
 
 else:
-    print("your wieght is" + str(one) +"lb")
+    print("your hieght is" + str(one) +"lb")
